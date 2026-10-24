@@ -2,14 +2,14 @@
 <index version="1" name="APC Reaper Console">
   <category name="Control Surfaces">
     <reapack name="APC Console.ext" type="extension" desc="APC Console">
-      <version name="0.3.0-beta.4" author="SolidSideman" time="2026-10-24T17:15:34Z">
-        <source file="reaper_apc_reaper_console-arm64.dylib" platform="darwin-arm64" hash="1220eb7744f2876bb152b9147e50efa87fd328709ba3e07616e0e5b98c6969c2c98d">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/Control%20Surfaces/reaper_apc_reaper_console-arm64.dylib</source>
-        <source file="APCReaperConsole/README.md" type="data" platform="darwin-arm64" hash="12206fc77e18ca5454244d4a0d389d415f7a0d3765ed13532a540cbd776537b0c3ee">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/README.md</source>
-        <source file="APCReaperConsole/CHANGELOG.md" type="data" platform="darwin-arm64" hash="122076fc6a6aa69c2b90cabc6e4506796a865ea709d00f1a8e80fa137c6383548ae0">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/CHANGELOG.md</source>
-        <source file="APCReaperConsole/QUICK_START.md" type="data" platform="darwin-arm64" hash="1220460c407b29ebf9a7cb6bd0f5dbc961b7729dc26fae5593bfc2c90f0649b6660b">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/docs/QUICK_START.md</source>
+      <version name="0.3.0-beta.5" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="reaper_apc_reaper_console-arm64.dylib" platform="darwin-arm64" hash="1220b89ed0daea80fb4412813d7ff0ed2ac0661259c55aeaa69eed8eaa751bcbbbd0">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/Control%20Surfaces/reaper_apc_reaper_console-arm64.dylib</source>
+        <source file="APCReaperConsole/README.md" type="data" platform="darwin-arm64" hash="12205109a88bb0e49972e3f5cb9f8e9222ee49188af1a5740e50c171e9cbbe29f0ed">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/README.md</source>
+        <source file="APCReaperConsole/CHANGELOG.md" type="data" platform="darwin-arm64" hash="1220ef449b732e4676dcccfb13d61ae1a577e0a903154c767d7207c6aff5db05da27">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/CHANGELOG.md</source>
+        <source file="APCReaperConsole/QUICK_START.md" type="data" platform="darwin-arm64" hash="12203e03a4a06274fbd7e10dec0af8d22723055dcb2f9035d9b1a051d828e961d87a">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/docs/QUICK_START.md</source>
         <source file="APCReaperConsole/MIDI_LED.md" type="data" platform="darwin-arm64" hash="12201b0106cbd57af655f2123190d5f22002a236ee2f69ac0269f2aac352fedc4a36">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/docs/MIDI_LED.md</source>
-        <source file="APCReaperConsole/APC_CONSOLE_MANUAL.pdf" type="data" platform="darwin-arm64" hash="1220e14047137d52be3a16b3e34f998b37d8e9d2e061966f54660f56b93e3c95b9c8">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/docs/APC_CONSOLE_MANUAL.pdf</source>
-        <changelog><![CDATA[The Console panel lists factory mappings installed by ReaPack even when no control surface is configured.]]></changelog>
+        <source file="APCReaperConsole/APC_CONSOLE_MANUAL.pdf" type="data" platform="darwin-arm64" hash="12200016d117ae1661f6e84d5b99e09c575c0a4f28d28761fd6d9ef47f3521504fb1">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/docs/APC_CONSOLE_MANUAL.pdf</source>
+        <changelog><![CDATA[Name SolidSideman as the author of the factory mappings that were labeled starter.]]></changelog>
       </version>
       <metadata>
         <link rel="website">https://github.com/fabiokamoto/APC-Reaper-Console</link>
@@ -264,9 +264,9 @@
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3CeilingFan.vst3852285232.json" type="data" desc="VST3: Ceiling Fan (Saint Mike DSP)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3CeilingFan.vst3852285232.json" type="data" platform="darwin-arm64" hash="1220d6257500e79a41fb423912e4386ecc03be3e179a6c147b50deaa0a8bbe07d918">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3CeilingFan.vst3852285232.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3CeilingFan.vst3852285232.json" type="data" platform="darwin-arm64" hash="12204bf86f6601997162c667f6596184422174764093b73094c618f048cac4054443">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3CeilingFan.vst3852285232.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3ChorusJUN-6.vst352171830.json" type="data" desc="VST3: Chorus JUN-6 (Arturia)">
@@ -396,9 +396,9 @@
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3KiloheartskHsDistortion.json" type="data" desc="VST3: kHs Distortion (Kilohearts)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3KiloheartskHsDistortion.json" type="data" platform="darwin-arm64" hash="12203f7146e7658233a46a6013bf83b262d827121e0900f6a9f6da3a6ac4378dff70">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3KiloheartskHsDistortion.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3KiloheartskHsDistortion.json" type="data" platform="darwin-arm64" hash="12201938c1c24f7c385660b8e5a8e09e164faf60f3404ffd1fd7c4998427d7fdbc76">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3KiloheartskHsDistortion.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3KiloheartskHsDualDelay.v.json" type="data" desc="VST3: kHs Dual Delay (Kilohearts)">
@@ -558,9 +558,9 @@
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3LIMITER.vst3.json" type="data" desc="VST3: LIMITER (Mastering the Mix)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3LIMITER.vst3.json" type="data" platform="darwin-arm64" hash="1220063ec6b4b7e9ffeb07b4e187e5928f40f9619dfdea02fbce12d418a90e4bb1d7">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3LIMITER.vst3.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3LIMITER.vst3.json" type="data" platform="darwin-arm64" hash="12200b0fd2a2820485d2b1bb60ae6c67911ab194dc5a850448615873f0d68e74699c">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3LIMITER.vst3.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3LOADES.vst39120433F2AEE7.json" type="data" desc="VST3: LOADES (AnalogObsession)">
@@ -636,9 +636,9 @@
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3MeldaProductionFilterMCo.json" type="data" desc="VST3: MComb (MeldaProduction)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3MeldaProductionFilterMCo.json" type="data" platform="darwin-arm64" hash="1220ba5d99f714401449fa34c2d31438dc1382778fc21a791ecd816ea4118602305d">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3MeldaProductionFilterMCo.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3MeldaProductionFilterMCo.json" type="data" platform="darwin-arm64" hash="12205a6655cfd3cefeafe46e428fb6e1065f34d9584475b5a2e05277af1f0cdf4c06">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3MeldaProductionFilterMCo.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3MeldaProductionModulatio-2.json" type="data" desc="VST3: MFlanger (MeldaProduction)">
@@ -702,9 +702,9 @@
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3MeldaProductionStereoMSt-2.json" type="data" desc="VST3: MStereoScope (MeldaProduction)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3MeldaProductionStereoMSt-2.json" type="data" platform="darwin-arm64" hash="12201c8361945cbd264c2cffdaf9e8bc9282caf57522740ab148f99506ad3041fab9">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3MeldaProductionStereoMSt-2.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3MeldaProductionStereoMSt-2.json" type="data" platform="darwin-arm64" hash="1220fa4789e5eb11a559c3e85937f48fe388dbded3111da6b86b655ca24fe8db1161">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3MeldaProductionStereoMSt-2.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3MeldaProductionStereoMSt.json" type="data" desc="VST3: MStereoExpander (MeldaProduction)">
@@ -720,9 +720,9 @@
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3MeldaProductionToolsMRat-2.json" type="data" desc="VST3: MRatioMB (MeldaProduction)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3MeldaProductionToolsMRat-2.json" type="data" platform="darwin-arm64" hash="122092aa3657b2dbaf53b7f1544ff464dd0ef3b425817a0fd54c143b3a9abbfefd7b">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3MeldaProductionToolsMRat-2.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3MeldaProductionToolsMRat-2.json" type="data" platform="darwin-arm64" hash="1220c5b0b06af3712d9561e49019d11b911ac15192669a66442ec2c8dd2a3052715b">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3MeldaProductionToolsMRat-2.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3MeldaProductionToolsMRat.json" type="data" desc="VST3: MRatio (MeldaProduction)">
@@ -732,9 +732,9 @@
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3ParityEQ.vst3898282908AB.json" type="data" desc="VST3: Parity EQ (Stagecraft Software)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3ParityEQ.vst3898282908AB.json" type="data" platform="darwin-arm64" hash="1220043a4ed9eeb1f8c1b7c71150f1d817abec8dbc739bedd715f21fce4ef29f5ca9">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3ParityEQ.vst3898282908AB.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3ParityEQ.vst3898282908AB.json" type="data" platform="darwin-arm64" hash="1220db061994be266c1db503576fbba42794f446351cb849ced8b8f1774b787cfe64">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3ParityEQ.vst3898282908AB.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3PulsarPulsarSmasher.vst3.json" type="data" desc="VST3: Pulsar Smasher (Pulsar)">
@@ -822,9 +822,9 @@
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3SilverLlamaFX.vst3.json" type="data" desc="VST3: Silver Llama FX (Safari Pedals)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3SilverLlamaFX.vst3.json" type="data" platform="darwin-arm64" hash="122055d7d004a50223d5ef5e22ce3b7d2ad6e2cb2d4ce01bdfea6ab3a7e6997967b5">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3SilverLlamaFX.vst3.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3SilverLlamaFX.vst3.json" type="data" platform="darwin-arm64" hash="1220d68e98a7ad424235f95b5a4ee0cb2105c939c9bbe1ab2e1a55207ff6ffa27a47">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3SilverLlamaFX.vst3.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3SlimVerb.vst31477767957C.json" type="data" desc="VST3: SlimVerb (2B Played Music)">
@@ -894,9 +894,9 @@
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3TDRPrism.vst315756774525.json" type="data" desc="VST3: TDR Prism (Tokyo Dawn Labs)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3TDRPrism.vst315756774525.json" type="data" platform="darwin-arm64" hash="122015e63799e203e580048e76d8a78e333114e7755dde3cc1538177493a0056fc03">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3TDRPrism.vst315756774525.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3TDRPrism.vst315756774525.json" type="data" platform="darwin-arm64" hash="12209bd33e70e362c325711688a58d11c79295914794abd26bfdbf8db5ab1da36b34">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3TDRPrism.vst315756774525.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3TR5ClassicClipper.vst315.json" type="data" desc="VST3: TR5 Classic Clipper (IK Multimedia)">
@@ -990,9 +990,9 @@
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3TwinPandaFX.vst320983163.json" type="data" desc="VST3: Twin Panda FX (Safari Pedals)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3TwinPandaFX.vst320983163.json" type="data" platform="darwin-arm64" hash="1220a052db706a69221585d0c4709c4d90a236472b76b1e00d86b9a9169655a611dd">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3TwinPandaFX.vst320983163.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3TwinPandaFX.vst320983163.json" type="data" platform="darwin-arm64" hash="1220ba193ce849a97c59196dfa9abccda9679727ae9cac107bf9e9f9ff3636136566">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3TwinPandaFX.vst320983163.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3UVITapeChorus.vst3192161.json" type="data" desc="VST3: Tape Chorus (UVI)">
@@ -1056,9 +1056,9 @@
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3WaveShell1-VST314.12.vst-9.json" type="data" desc="VST3: MetaFilter Stereo (Waves)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3WaveShell1-VST314.12.vst-9.json" type="data" platform="darwin-arm64" hash="1220a804a24646d61a7060bf1c26fb029ae964e156c4480784f01efd578bad6d9160">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3WaveShell1-VST314.12.vst-9.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3WaveShell1-VST314.12.vst-9.json" type="data" platform="darwin-arm64" hash="1220ff8354e9594930fcd5a02969c52e9605a5e07c31a023e1bcdf467c0b8c27eb4d">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3WaveShell1-VST314.12.vst-9.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3WaveShell1-VST314.12.vst.json" type="data" desc="VST3: Berzerk Distortion Mono (Waves)">
@@ -1152,9 +1152,9 @@
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3WideFire.vst3.json" type="data" desc="VST3: WideFire (JMGSound)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3WideFire.vst3.json" type="data" platform="darwin-arm64" hash="1220803d7e9644d06c6a181997dfecffb23970e536798cd322696a542d49ec534eac">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3WideFire.vst3.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3WideFire.vst3.json" type="data" platform="darwin-arm64" hash="12203aa1a16d34357da60729515d0665facb9c1f3e96d94638532ac773174d0a3c97">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3WideFire.vst3.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVST3Wider.vst320836899856535.json" type="data" desc="VST3: Wider (Polyverse Music)">
@@ -1308,9 +1308,9 @@
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVSTMeldaProductionFilterMCom.json" type="data" desc="VST: MComb (MeldaProduction)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVSTMeldaProductionFilterMCom.json" type="data" platform="darwin-arm64" hash="1220c8d577c1bbbd503d0f3033ac943a168bcafd0a705a6f70c410c8740d1260363a">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVSTMeldaProductionFilterMCom.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVSTMeldaProductionFilterMCom.json" type="data" platform="darwin-arm64" hash="122028bb15749d883b774a721b7606df8128ef66efe220d976cb183330fb5599558c">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVSTMeldaProductionFilterMCom.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVSTMeldaProductionModulationMAutopan.vst.json" type="data" desc="VST: MAutopan (MeldaProduction)">
@@ -1386,9 +1386,9 @@
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVSTMeldaProductionToolsMRati-2.json" type="data" desc="VST: MRatioMB (MeldaProduction)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVSTMeldaProductionToolsMRati-2.json" type="data" platform="darwin-arm64" hash="122062ecb3f1c0c5e4c5b67acd63473acfe704a548894eba8e8c4810a8540d817ad8">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVSTMeldaProductionToolsMRati-2.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVSTMeldaProductionToolsMRati-2.json" type="data" platform="darwin-arm64" hash="1220c6d81a09790b0bba34b7efb465fba5c502f1092cb3efba1b3fc37b27a1dc3320">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVSTMeldaProductionToolsMRati-2.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVSTMeldaProductionToolsMRatio.vst.json" type="data" desc="VST: MRatio (MeldaProduction)">
@@ -1542,9 +1542,9 @@
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVSTTR5QuadImage.vst141277214.json" type="data" desc="VST: TR5 Quad Image (IK Multimedia)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVSTTR5QuadImage.vst141277214.json" type="data" platform="darwin-arm64" hash="1220d9394dbeb1b31046d47532421b6e4c6c3b85fc3d420f5f28613da78d4c13afef">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVSTTR5QuadImage.vst141277214.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVSTTR5QuadImage.vst141277214.json" type="data" platform="darwin-arm64" hash="1220c089c2a69d65803c47f91b465081ca20e359dc0d7c491f1065e256af1d10a3e3">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVSTTR5QuadImage.vst141277214.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVSTTR5SpaceDelay.vst.json" type="data" desc="VST: TR5 Space Delay (IK Multimedia)">
@@ -1602,21 +1602,21 @@
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVSTWaveShell1-VST14.12.vst11-2.json" type="data" desc="VST: Berzerk Distortion Stereo (x86_64) (Waves)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVSTWaveShell1-VST14.12.vst11-2.json" type="data" platform="darwin-arm64" hash="12203ef4a50adaf9f712b1ac00e11a533e8e3f5c4597c72bc388b145d2b1829eec55">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVSTWaveShell1-VST14.12.vst11-2.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVSTWaveShell1-VST14.12.vst11-2.json" type="data" platform="darwin-arm64" hash="1220ebb9ef2f58906ce8afc036e5b0ca64002fd1eb2ded68d5b9fb0ef0631e1e89ca">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVSTWaveShell1-VST14.12.vst11-2.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVSTWaveShell1-VST14.12.vst11.json" type="data" desc="VST: Berzerk Distortion Mono (x86_64) (Waves)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVSTWaveShell1-VST14.12.vst11.json" type="data" platform="darwin-arm64" hash="12203ecd45bf55beff8415b5cf26f9f77dead900aead08b6d51007c66b5380a38b45">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVSTWaveShell1-VST14.12.vst11.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVSTWaveShell1-VST14.12.vst11.json" type="data" platform="darwin-arm64" hash="1220a367ffbf50662343b15f0fdc5f8db349dd7ee85a2fcd1bc44db664354e865f1c">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVSTWaveShell1-VST14.12.vst11.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="LibraryAudioPlug-InsVSTWideFire.vst1466524742.json" type="data" desc="VST: WideFire (JMGSound)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVSTWideFire.vst1466524742.json" type="data" platform="darwin-arm64" hash="12201d48374d51f889316ec35df4135b9e8af340a32728dcd91bb5d17339ef9fa7ce">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVSTWideFire.vst1466524742.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVSTWideFire.vst1466524742.json" type="data" platform="darwin-arm64" hash="1220d24fd7c8cf96f790484ec979afc5e8110d94093898a18bc20b8801186819d8af">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVSTWideFire.vst1466524742.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="MeldaProductionMAGC.json" type="data" desc="AU: MAGC (MeldaProduction)">
@@ -1662,9 +1662,9 @@
       </version>
     </reapack>
     <reapack name="MeldaProductionMComb.json" type="data" desc="AU: MComb (MeldaProduction)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/MeldaProductionMComb.json" type="data" platform="darwin-arm64" hash="1220a9584e1e32f03d1dce595cf155379af0c9471f1bd519b0aa769ad787cb47a27b">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/MeldaProductionMComb.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/MeldaProductionMComb.json" type="data" platform="darwin-arm64" hash="1220b085a27be5b9ee648c7c8a5335278a63f9833af9c342323ce9a5f3db33eb4d51">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/MeldaProductionMComb.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="MeldaProductionMCompressor.json" type="data" desc="AU: MCompressor (MeldaProduction)">
@@ -1722,9 +1722,9 @@
       </version>
     </reapack>
     <reapack name="MeldaProductionMRatioMB.json" type="data" desc="AU: MRatioMB (MeldaProduction)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/MeldaProductionMRatioMB.json" type="data" platform="darwin-arm64" hash="12204453bd1cebfc300bdd7eb7b07c52de234783e1dfced6f753cbbba0acfc962f57">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/MeldaProductionMRatioMB.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/MeldaProductionMRatioMB.json" type="data" platform="darwin-arm64" hash="12202fc5d48d89b2ce30700f76e541950286385c2eae30128541d705a1108d25ccf3">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/MeldaProductionMRatioMB.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="MeldaProductionMRingModulator.json" type="data" desc="AU: MRingModulator (MeldaProduction)">
@@ -1746,9 +1746,9 @@
       </version>
     </reapack>
     <reapack name="MeldaProductionMStereoScope.json" type="data" desc="AU: MStereoScope (MeldaProduction)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/MeldaProductionMStereoScope.json" type="data" platform="darwin-arm64" hash="122095ff827036f7a65618164741436aab0c3b0dc998a28f150a010fdfd88c794c03">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/MeldaProductionMStereoScope.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/MeldaProductionMStereoScope.json" type="data" platform="darwin-arm64" hash="1220159075a13b50aaa228eeb3595c1fee4a7288c9014815c1f9212924462a875133">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/MeldaProductionMStereoScope.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="MeldaProductionMTremolo.json" type="data" desc="AU: MTremolo (MeldaProduction)">
@@ -1812,9 +1812,9 @@
       </version>
     </reapack>
     <reapack name="SafariPedalsSilverLlamaFX.json" type="data" desc="AU: Silver Llama FX (Safari Pedals)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/SafariPedalsSilverLlamaFX.json" type="data" platform="darwin-arm64" hash="12201f047428f67a72e6add088f6468c5a4f2e9bdb26bf49a11041a326439ec8044e">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/SafariPedalsSilverLlamaFX.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/SafariPedalsSilverLlamaFX.json" type="data" platform="darwin-arm64" hash="1220d6b7b9aa7347b079d99f6b3de0b3748647673bb82ebec14569f715c6ad67de59">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/SafariPedalsSilverLlamaFX.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="SafariPedalsTimeMachine.json" type="data" desc="AU: TimeMachine (Safari Pedals)">
@@ -1824,9 +1824,9 @@
       </version>
     </reapack>
     <reapack name="SafariPedalsTwinPandaFX.json" type="data" desc="AU: Twin Panda FX (Safari Pedals)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/SafariPedalsTwinPandaFX.json" type="data" platform="darwin-arm64" hash="1220991bc460d7d15b40ed9feec76990b105088be99c25d9e89b3135b3a9cf461b1e">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/SafariPedalsTwinPandaFX.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/SafariPedalsTwinPandaFX.json" type="data" platform="darwin-arm64" hash="122089aee57428d37d9c2df5fdb05012c60824b37b78d965b42f307430e857a4c0be">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/SafariPedalsTwinPandaFX.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="SignalworkAudioSWAttack.json" type="data" desc="AU: SW Attack (Signalwork Audio)">
@@ -1980,15 +1980,15 @@
       </version>
     </reapack>
     <reapack name="StagecraftSoftwareParityEQ.json" type="data" desc="AU: Parity EQ (Stagecraft Software)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/StagecraftSoftwareParityEQ.json" type="data" platform="darwin-arm64" hash="12204470582fc8126212b37dca50f5653bbb9fbde626b70f326506566cec7a37b23a">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/StagecraftSoftwareParityEQ.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/StagecraftSoftwareParityEQ.json" type="data" platform="darwin-arm64" hash="122084c97620144b5a210ab5a1db490025525a03ec5e352210f24e67ee2c7d415a0c">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/StagecraftSoftwareParityEQ.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="TukanABXNULLS2Tukan.json" type="data" desc="JS: ABXNULL S2 (Tukan)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/TukanABXNULLS2Tukan.json" type="data" platform="darwin-arm64" hash="12209bab8952816207f2723040ac84228dc2f212f9f7d8748d3a2f1136a9f985cc9a">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/TukanABXNULLS2Tukan.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/TukanABXNULLS2Tukan.json" type="data" platform="darwin-arm64" hash="12206ada22206094ca79dc37f79c9b36bfc826633dae0a66beebd2303f2550068075">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/TukanABXNULLS2Tukan.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="TukanACTremTukan.json" type="data" desc="JS: AC Trem (Tukan)">
@@ -2424,21 +2424,21 @@
       </version>
     </reapack>
     <reapack name="UnitedPluginsFirePresser.json" type="data" desc="AU: FirePresser (UnitedPlugins)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/UnitedPluginsFirePresser.json" type="data" platform="darwin-arm64" hash="1220f8abc3ad28b3b532e0aa102a3d3355ab404448f954fd0821a88d3ae41cf85b5c">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/UnitedPluginsFirePresser.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/UnitedPluginsFirePresser.json" type="data" platform="darwin-arm64" hash="1220dd11ed4bd0308519882d1a458eb991612511c1a6b82767b4b01ec7e930ec1a79">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/UnitedPluginsFirePresser.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="UnitedPluginsRandomachine.json" type="data" desc="AU: Randomachine (UnitedPlugins)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/UnitedPluginsRandomachine.json" type="data" platform="darwin-arm64" hash="1220c34b80f2651bc59ae78faf4d23c40d8c33866e3e23d5d7c9f07054966f9e8133">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/UnitedPluginsRandomachine.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/UnitedPluginsRandomachine.json" type="data" platform="darwin-arm64" hash="12204cc78560ee70c7d75ca11450d573ec6fa812e62b9aba9143b09b79f6bab92a02">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/UnitedPluginsRandomachine.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="UnitedPluginsWideFire.json" type="data" desc="AU: WideFire (UnitedPlugins)">
-      <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
-        <source file="APCReaperConsole/bundled/UnitedPluginsWideFire.json" type="data" platform="darwin-arm64" hash="12204204b7fa9a40822247fbe0304189d351f305f20780c080c455620a844402bc81">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/UnitedPluginsWideFire.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
+      <version name="2" author="SolidSideman" time="2026-10-24T17:26:56Z">
+        <source file="APCReaperConsole/bundled/UnitedPluginsWideFire.json" type="data" platform="darwin-arm64" hash="12200786101a0e08b612755476c5061cab56dadd3c31405b582919bacc2d9eac6a02">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/UnitedPluginsWideFire.json</source>
+        <changelog><![CDATA[Updated factory mapping.]]></changelog>
       </version>
     </reapack>
     <reapack name="UniversalAudioUADxUADx1176FETCompressor.json" type="data" desc="AU: UADx 1176 FET Compressor (Universal Audio (UADx))">

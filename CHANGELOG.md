@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0-beta.5
+
+- Name SolidSideman as the author of the factory mappings that were labeled starter.
+
 ## 0.3.0-beta.4
 
 - The Console panel lists factory mappings installed by ReaPack even when no control surface is configured.
