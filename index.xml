@@ -4,7 +4,7 @@
     <reapack name="APC Console.ext" type="extension" desc="APC Console">
       <version name="0.3.0-beta.1" author="SolidSideman" time="2026-10-21T16:00:00Z">
         <source file="reaper_apc_reaper_console-arm64.dylib" platform="darwin-arm64" hash="1220258290c8da007f4d3f54eb276f69810bef1ca4c3fd6b2146605c0d54cee2e8eb">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/Control%20Surfaces/reaper_apc_reaper_console-arm64.dylib</source>
-        <source file="APCReaperConsole/README.md" type="data" platform="darwin-arm64" hash="1220b89f3229867d4655ee41380e22682d47d456f12b5dc2e962d9b6602f8f54f454">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/README.md</source>
+        <source file="APCReaperConsole/README.md" type="data" platform="darwin-arm64" hash="1220681bfa296b09134f218631266587f8a4cfb632ccb75c502934e3effd42b0fdd4">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/README.md</source>
         <source file="APCReaperConsole/CHANGELOG.md" type="data" platform="darwin-arm64" hash="12204b90563f911cd6396bb6e75d9d812669c8c523b3690412d98dc9323e077a5eec">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/CHANGELOG.md</source>
         <source file="APCReaperConsole/QUICK_START.md" type="data" platform="darwin-arm64" hash="12202bc618216f5441ec8aa5658de6acbf9f5c7680f2d667300094164b1d5281bb5b">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/docs/QUICK_START.md</source>
         <source file="APCReaperConsole/MIDI_LED.md" type="data" platform="darwin-arm64" hash="12201b0106cbd57af655f2123190d5f22002a236ee2f69ac0269f2aac352fedc4a36">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/docs/MIDI_LED.md</source>
