@@ -15,7 +15,7 @@ APC Reaper Console `0.3.0-beta.1` is a REAPER control surface for the Akai APC m
 6. Quit REAPER and start it again. REAPER loads the new extension only after that restart.
 7. Open **Options > Preferences**, filter `OSC`, and open **Control/OSC/web**.
 8. Press **Add**, choose **APC Reaper Console**, and select the APC MIDI input and output.
-9. Open **Extensions > APC Reaper Console**.
+9. Open **Extensions > APC Reaper Console**. On the Library tab, **Manual** opens the user manual in the default browser.
 
 The package installs the arm64 extension, the factory mappings, `README.md`, `QUICK_START.md`, `MIDI_LED.md`, and `CHANGELOG.md`. The documents are in `~/Library/Application Support/REAPER/Data/APCReaperConsole/`. Factory mappings are in `Data/APCReaperConsole/bundled/`. Personal templates in `APCReaperConsole/user/` are not in the package, and installing it does not change them or any REAPER project.
 

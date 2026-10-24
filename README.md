@@ -112,4 +112,5 @@ The same package installs three shorter documents next to this file:
 
 - `QUICK_START.md` — install, the first mapping, and removal
 - `MIDI_LED.md` — pad, button, and fader messages
+- `APC_CONSOLE_MANUAL.pdf` — the user manual. **Manual** on the Library tab opens it in the default browser
 - `CHANGELOG.md` — what changed in this version
