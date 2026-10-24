@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0-beta.2
+
+- Enable Logs stays off until you turn it on, and Manual sits on the same row as Delete at the right edge of the Library tab.
+
 ## 0.3.0-beta.1
 
 Beta for macOS Apple Silicon, REAPER 7.80 or newer, and the Akai APC mini mk2.

@@ -1,6 +1,6 @@
 # APC Reaper Console
 
-APC Reaper Console `0.3.0-beta.1` is a REAPER control surface for the Akai APC mini mk2. It drives the mixer and the plug-ins on the tracks in view. This release is for macOS Apple Silicon and REAPER 7.80 or newer.
+APC Reaper Console `0.3.0-beta.2` is a REAPER control surface for the Akai APC mini mk2. It drives the mixer and the plug-ins on the tracks in view. This release is for macOS Apple Silicon and REAPER 7.80 or newer.
 
 ## Requirements
 
@@ -20,7 +20,7 @@ APC Reaper Console `0.3.0-beta.1` is a REAPER control surface for the Akai APC m
 
 3. Open **Extensions > ReaPack > Browse packages**.
 4. Select the repository **APC Reaper Console**. The package is **APC Console**, in **Control Surfaces**.
-5. `0.3.0-beta.1` is a pre-release. In the package menu, enable pre-releases, then install **APC Console**.
+5. `0.3.0-beta.2` is a pre-release. In the package menu, enable pre-releases, then install **APC Console**.
 6. Quit REAPER and start it again. REAPER loads the new extension only after that restart.
 
 The package installs the extension, the factory mappings, this README, the quick start, the MIDI and LED manual, and the changelog. The documents are in `~/Library/Application Support/REAPER/Data/APCReaperConsole/`. Factory mappings are in `Data/APCReaperConsole/bundled/`.
@@ -45,7 +45,7 @@ Then open **Extensions > APC Reaper Console > Console panel**.
 
 **User Profile**, at the top left, is the name stored as the author when you save a personal mapping.
 
-**Plugins Scan** holds **Project plugins**. **Mapping Share** holds **Import** and **Export**. **Plugin List** is the mapping library. **Delete** sits at the bottom left of that list.
+**Plugins Scan** holds **Project plugins**. **Mapping Share** holds **Import** and **Export**. **Plugin List** is the mapping library. **Delete** sits at the bottom left of that list. **Manual** sits on the same row, at the right edge of the window.
 
 ## Features
 
@@ -96,7 +96,7 @@ The plug-in list shows Type, Developer, Name, Version, Author, Active, and Profi
 
 The **Diagnostics** tab shows the MIDI ports, the current mode, the track window, the focused plug-in, and the last error.
 
-**Enable Logs** writes `apc-reaper-console.log` in the REAPER resource folder. **Verbose** adds the MIDI lines. **Show Logs**, **Export Logs**, and **Clear Logs** open, save, or empty that file. The two checks are kept for the next launch.
+**Enable Logs** is off until you turn it on. It writes `apc-reaper-console.log` in the REAPER resource folder. **Verbose** adds the MIDI lines. **Show Logs**, **Export Logs**, and **Clear Logs** open, save, or empty that file. The two checks are kept for the next launch.
 
 **LEDs ON** restores the current lights. **LEDs OFF** turns off the lights this surface owns until **LEDs ON**. **Reset pickup states** makes every fader wait until it matches the current value again. **Export bug report** saves a local text file with the version, the port state, and the recent log lines. It is not uploaded.
 

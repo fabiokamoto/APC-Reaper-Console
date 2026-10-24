@@ -2,13 +2,13 @@
 <index version="1" name="APC Reaper Console">
   <category name="Control Surfaces">
     <reapack name="APC Console.ext" type="extension" desc="APC Console">
-      <version name="0.3.0-beta.1" author="SolidSideman" time="2026-10-21T16:00:00Z">
-        <source file="reaper_apc_reaper_console-arm64.dylib" platform="darwin-arm64" hash="1220f0f82b4678728e937b2830934dd7df013f149fb58122727a40d07b1eb57a463d">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/Control%20Surfaces/reaper_apc_reaper_console-arm64.dylib</source>
-        <source file="APCReaperConsole/README.md" type="data" platform="darwin-arm64" hash="122001ce64e1281532ffc38ec3eab463d65190045e0a91e129166b14e32dc6604caf">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/README.md</source>
-        <source file="APCReaperConsole/CHANGELOG.md" type="data" platform="darwin-arm64" hash="1220a6690cf0442d2c38c63e70ee47a9c2522df56ce2136882286142bdb75248a7b9">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/CHANGELOG.md</source>
-        <source file="APCReaperConsole/QUICK_START.md" type="data" platform="darwin-arm64" hash="1220621931ae80f895779f15f98c095c29877d96e01abd6ac85fe0a7acd992a34f24">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/docs/QUICK_START.md</source>
+      <version name="0.3.0-beta.2" author="SolidSideman" time="2026-10-24T16:36:15Z">
+        <source file="reaper_apc_reaper_console-arm64.dylib" platform="darwin-arm64" hash="122047139bbc7b733596c8737ea10236be5d5b18e1f2d5b14e37eaab87b257c317fa">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/Control%20Surfaces/reaper_apc_reaper_console-arm64.dylib</source>
+        <source file="APCReaperConsole/README.md" type="data" platform="darwin-arm64" hash="1220812db08699e5da6f2220b77b67f16a165922d0658b877d683d0b2f7f60fa82b2">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/README.md</source>
+        <source file="APCReaperConsole/CHANGELOG.md" type="data" platform="darwin-arm64" hash="1220c84fbe6027f6b5af30c6cde2cc836f28cb1a4faa68c82956a989450635e3f5c2">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/CHANGELOG.md</source>
+        <source file="APCReaperConsole/QUICK_START.md" type="data" platform="darwin-arm64" hash="1220bf59ec156e6678040f586947b0802acd13ffac53914745e420a6db2aab2cde71">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/docs/QUICK_START.md</source>
         <source file="APCReaperConsole/MIDI_LED.md" type="data" platform="darwin-arm64" hash="12201b0106cbd57af655f2123190d5f22002a236ee2f69ac0269f2aac352fedc4a36">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/docs/MIDI_LED.md</source>
-        <source file="APCReaperConsole/APC_CONSOLE_MANUAL.pdf" type="data" platform="darwin-arm64" hash="1220e7bded178ab77d06d9db0d71850d3acb1ef14ec097c05ecf9e4cd1d52bab18c6">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/docs/APC_CONSOLE_MANUAL.pdf</source>
+        <source file="APCReaperConsole/APC_CONSOLE_MANUAL.pdf" type="data" platform="darwin-arm64" hash="12204164cd1e4ac5a07228505ae455beed20cbdc59b9bbc8d4c59a30613ac97c2b18">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/docs/APC_CONSOLE_MANUAL.pdf</source>
         <source file="APCReaperConsole/bundled/AnalogObsessionBUSTERse.json" type="data" platform="darwin-arm64" hash="1220cff133fdfd0eba878f3f9fb6871611b7b24740dcb2c87d0c731f5bf33cb18498">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/AnalogObsessionBUSTERse.json</source>
         <source file="APCReaperConsole/bundled/AnalogObsessionBritChannel.json" type="data" platform="darwin-arm64" hash="1220739e32e7a858c1ef286b28352011760f244336b4c25d63521cde4eacc0a45c88">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/AnalogObsessionBritChannel.json</source>
         <source file="APCReaperConsole/bundled/AnalogObsessionBritpressor.json" type="data" platform="darwin-arm64" hash="12201e9de37ab47a024d3f03db803e1847ae7f6f81a381ea745d23b07239cd1b4897">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/AnalogObsessionBritpressor.json</source>
@@ -437,13 +437,7 @@
         <source file="APCReaperConsole/bundled/UsersfabioLibraryAudioPlug-InsVST3HoRNetTapeLite.json" type="data" platform="darwin-arm64" hash="122074737efe13ad0978eecd336db33dccdef16cf75c71cc729ad43b86426091efd6">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/UsersfabioLibraryAudioPlug-InsVST3HoRNetTapeLite.json</source>
         <source file="APCReaperConsole/bundled/UsersfabioLibraryAudioPlug-InsVST3HoRNetTotalEQ.vst318368632-2.json" type="data" platform="darwin-arm64" hash="12200bef08694c9f8a00f9f710d9821631d44dd6b752d0dd759fba7d2a3d7534ba2a">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/UsersfabioLibraryAudioPlug-InsVST3HoRNetTotalEQ.vst318368632-2.json</source>
         <source file="APCReaperConsole/bundled/UsersfabioLibraryAudioPlug-InsVST3Satura.vst31795834374ABCDE.json" type="data" platform="darwin-arm64" hash="12203797d829243590a21f9cbde613cf0a9545d37578de1cf1acaaa89d69f56560d5">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/UsersfabioLibraryAudioPlug-InsVST3Satura.vst31795834374ABCDE.json</source>
-        <changelog><![CDATA[Beta for macOS Apple Silicon, REAPER 7.80 or newer, and the Akai APC mini mk2.
-ReaPack installs the arm64 extension, the factory mappings, the README, the quick start, the MIDI and LED manual, the user manual, and this changelog.
-Manual, on the Library tab of APC Console Panel, opens the user manual in the default browser.
-Factory mappings are the mappings checked Active. Each shipped copy has profile version 1. Personal templates in APCReaperConsole/user are not part of the package.
-A fader edit stays in the session until Save. Profile advances by one on that save.
-Assign, clear, or swap in APC Faders clears a project override on that fader.
-The plug-in list opens on mappings with Active checked. Show Inactive shows the rest.]]></changelog>
+        <changelog><![CDATA[Enable Logs stays off until you turn it on, and Manual sits on the same row as Delete at the right edge of the Library tab.]]></changelog>
       </version>
       <metadata>
         <link rel="website">https://github.com/fabiokamoto/APC-Reaper-Console</link>
