@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0-beta.4
+
+- The Console panel lists factory mappings installed by ReaPack even when no control surface is configured.
+
 ## 0.3.0-beta.3
 
 - Each factory mapping is its own ReaPack package, so an update downloads only the mapping that changed.

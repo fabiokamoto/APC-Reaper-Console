@@ -1,6 +1,6 @@
 # Quick start
 
-APC Reaper Console `0.3.0-beta.3` is a REAPER control surface for the Akai APC mini mk2 on macOS Apple Silicon.
+APC Reaper Console `0.3.0-beta.4` is a REAPER control surface for the Akai APC mini mk2 on macOS Apple Silicon.
 
 ## Install
 
@@ -11,7 +11,7 @@ APC Reaper Console `0.3.0-beta.3` is a REAPER control surface for the Akai APC m
 
 3. Open **Extensions > ReaPack > Browse packages**.
 4. Select the repository **APC Reaper Console**. The extension is **APC Console**, in **Control Surfaces**. The factory mappings are the packages in **Factory mappings**.
-5. `0.3.0-beta.3` is a pre-release. In the package menu, enable pre-releases, then install **APC Console**. Install the packages in **Factory mappings** as well.
+5. `0.3.0-beta.4` is a pre-release. In the package menu, enable pre-releases, then install **APC Console**. Install the packages in **Factory mappings** as well.
 6. Quit REAPER and start it again. REAPER loads the new extension only after that restart.
 7. Open **Options > Preferences**, filter `OSC`, and open **Control/OSC/web**.
 8. Press **Add**, choose **APC Reaper Console**, and select the APC MIDI input and output.
