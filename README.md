@@ -80,7 +80,7 @@ Installing the package places:
 
 The package does not contain `APCReaperConsole/user/`. Installing or removing it does not change personal templates or REAPER projects. Restart REAPER after the install. The new dylib is loaded only then. The package does not add the control surface by itself: add **APC Reaper Console** once under **Preferences > Control/OSC/web**.
 
-`packaging/write_reapack_index.py` writes `index.xml` from the package definition, the arm64 dylib in `Control Surfaces/`, the four documents, and the 422 factory mappings. Those files are published to the public repository https://github.com/fabiokamoto/APC-Reaper-Console. This source repository is https://github.com/fabiokamoto/APC-RC-SourceCode. The script does not create a git tag. `cmake --install` still copies only the dylib used for development. `packaging/install.sh` is the checkout installer exercised by the package test; the install path for another Mac is ReaPack.
+`packaging/write_reapack_index.py` writes `index.xml` from the package definition, the arm64 dylib in `Control Surfaces/`, the four documents, and the active factory mappings. Those files are published to the public repository https://github.com/fabiokamoto/APC-Reaper-Console. This source repository is https://github.com/fabiokamoto/APC-RC-SourceCode. The script does not create a git tag. `cmake --install` still copies only the dylib used for development. `packaging/install.sh` is the checkout installer exercised by the package test; the install path for another Mac is ReaPack.
 
 ## Adding the surface
 
