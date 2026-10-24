@@ -1,6 +1,6 @@
 # APC Reaper Console
 
-APC Reaper Console `0.3.0-beta.2` is a REAPER control surface for the Akai APC mini mk2. It drives the mixer and the plug-ins on the tracks in view. This release is for macOS Apple Silicon and REAPER 7.80 or newer.
+APC Reaper Console `0.3.0-beta.3` is a REAPER control surface for the Akai APC mini mk2. It drives the mixer and the plug-ins on the tracks in view. This release is for macOS Apple Silicon and REAPER 7.80 or newer.
 
 ## Requirements
 
@@ -19,13 +19,15 @@ APC Reaper Console `0.3.0-beta.2` is a REAPER control surface for the Akai APC m
     Use that address. The GitHub page address, the one that contains `/blob/`, is not the package index.
 
 3. Open **Extensions > ReaPack > Browse packages**.
-4. Select the repository **APC Reaper Console**. The package is **APC Console**, in **Control Surfaces**.
-5. `0.3.0-beta.2` is a pre-release. In the package menu, enable pre-releases, then install **APC Console**.
+4. Select the repository **APC Reaper Console**. The extension is **APC Console**, in **Control Surfaces**. The factory mappings are the packages in **Factory mappings**.
+5. `0.3.0-beta.3` is a pre-release. In the package menu, enable pre-releases, then install **APC Console**. Install the packages in **Factory mappings** as well. Their versions are not pre-releases.
 6. Quit REAPER and start it again. REAPER loads the new extension only after that restart.
 
-The package installs the extension, the factory mappings, this README, the quick start, the MIDI and LED manual, and the changelog. The documents are in `~/Library/Application Support/REAPER/Data/APCReaperConsole/`. Factory mappings are in `Data/APCReaperConsole/bundled/`.
+**APC Console** installs the extension, this README, the quick start, the MIDI and LED manual, the user manual, and the changelog. The documents are in `~/Library/Application Support/REAPER/Data/APCReaperConsole/`. Each factory mapping is its own package and is installed in `Data/APCReaperConsole/bundled/`.
 
-Personal templates in `APCReaperConsole/user/` are not part of the package. Installing or updating it does not change them or any REAPER project. Updating replaces the factory mappings that belong to the package.
+ReaPack downloads every file that belongs to a package whose version changed, and leaves every other installed package as it is. A factory mapping is downloaded again only when that file changed. Personal templates in `APCReaperConsole/user/` are not part of any package. Installing or updating does not change them or any REAPER project.
+
+If factory mappings were already installed inside **APC Console**, the next update of that package removes them from it. In that same synchronization, install the new packages in **Factory mappings**. ReaPack writes the files back to the same folder. After that, an unchanged mapping stays on disk and is not downloaded again.
 
 On a Mac that does not yet have `APCReaperConsole/choices.json`, one factory mapping per plug-in is checked **Active**.
 

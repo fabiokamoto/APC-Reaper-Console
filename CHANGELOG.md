@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0-beta.3
+
+- Each factory mapping is its own ReaPack package, so an update downloads only the mapping that changed.
+
 ## 0.3.0-beta.2
 
 - Enable Logs stays off until you turn it on, and Manual sits on the same row as Delete at the right edge of the Library tab.
