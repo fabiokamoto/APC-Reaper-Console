@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0-beta.6
+
+- Restore Pages and Parametric EQ for the factory plug-ins that were prepared that way.
+
 ## 0.3.0-beta.5
 
 - Name SolidSideman as the author of the factory mappings that were labeled starter.
