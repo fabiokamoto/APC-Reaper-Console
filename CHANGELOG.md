@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0-beta.8
+
+- Match factory Pages mappings to the live plug-in even when REAPER adds a VST3 UID.
+
 ## 0.3.0-beta.7
 
 - Show every Pages fader in the Console panel, labeled by fader and page.

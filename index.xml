@@ -2,15 +2,15 @@
 <index version="1" name="APC Reaper Console">
   <category name="Control Surfaces">
     <reapack name="APC Console.ext" type="extension" desc="APC Console">
-      <version name="0.3.0-beta.7" author="SolidSideman" time="2026-10-26T16:02:09Z">
-        <source file="reaper_apc_reaper_console-arm64.dylib" platform="darwin-arm64" hash="122099edc3b3241dc4b0e2f9cf048917d4faaf7a038fd89880c24b0fb09642d7cd5e">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/Control%20Surfaces/reaper_apc_reaper_console-arm64.dylib</source>
-        <source file="APCReaperConsole/README.md" type="data" platform="darwin-arm64" hash="1220cf4dc87ce2815e83425c630e9f10dc4b1e2e46280df10ada0c1c94d001ac055a">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/README.md</source>
-        <source file="APCReaperConsole/CHANGELOG.md" type="data" platform="darwin-arm64" hash="12204f0606984d86f9dc6b87d1b0bfbe5cdb08816fccba3a3a1073c15154b9ee5a25">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/CHANGELOG.md</source>
-        <source file="APCReaperConsole/QUICK_START.md" type="data" platform="darwin-arm64" hash="122048288e69f6e7acd6b98d562b55f1f947f324aa20dd5b29f4f9af0165496907de">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/docs/QUICK_START.md</source>
+      <version name="0.3.0-beta.8" author="SolidSideman" time="2026-10-26T16:14:59Z">
+        <source file="reaper_apc_reaper_console-arm64.dylib" platform="darwin-arm64" hash="1220acb0f4fed0775b442ef44965408bb8d33183ccc99f2dacd0101244fa090a5aae">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/Control%20Surfaces/reaper_apc_reaper_console-arm64.dylib</source>
+        <source file="APCReaperConsole/README.md" type="data" platform="darwin-arm64" hash="12201d2c9e914865dacc63c7063c59e64e53e26bb6e6e193aaf620bf49246c2e6e36">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/README.md</source>
+        <source file="APCReaperConsole/CHANGELOG.md" type="data" platform="darwin-arm64" hash="1220c777357f8ded0af85f10c2034dd1481a62d192942153ffc35b35ea6abeff2122">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/CHANGELOG.md</source>
+        <source file="APCReaperConsole/QUICK_START.md" type="data" platform="darwin-arm64" hash="1220533fba242b95bc2e6c5d1e1a8181cec584c13b49d504deb52f8654f6fef11ef5">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/docs/QUICK_START.md</source>
         <source file="APCReaperConsole/MIDI_LED.md" type="data" platform="darwin-arm64" hash="12201b0106cbd57af655f2123190d5f22002a236ee2f69ac0269f2aac352fedc4a36">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/docs/MIDI_LED.md</source>
-        <source file="APCReaperConsole/APC_CONSOLE_MANUAL.pdf" type="data" platform="darwin-arm64" hash="122082f07ba397fdbe6a9e25c90d06ad274f77eb2b105d6de1af63c2a1b640947c64">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/docs/APC_CONSOLE_MANUAL.pdf</source>
+        <source file="APCReaperConsole/APC_CONSOLE_MANUAL.pdf" type="data" platform="darwin-arm64" hash="122045dac82cf26eaa66d28243b463735e17ca3c2a882abb695afe06d4ff7891ecdc">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/docs/APC_CONSOLE_MANUAL.pdf</source>
         <source file="APCReaperConsole/fx-modes.txt" type="data" platform="darwin-arm64" hash="1220214f1d17b17fd61b758d1f986e7818782ca199b0b0e6bbbd8fc04a1550b24456">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/fx-modes.txt</source>
-        <changelog><![CDATA[Show every Pages fader in the Console panel, labeled by fader and page.]]></changelog>
+        <changelog><![CDATA[Match factory Pages mappings to the live plug-in even when REAPER adds a VST3 UID.]]></changelog>
       </version>
       <metadata>
         <link rel="website">https://github.com/fabiokamoto/APC-Reaper-Console</link>
@@ -1041,12 +1041,6 @@
     <reapack name="LibraryAudioPlug-InsVST3WastedSpace.vst331849467.json" type="data" desc="VST3: Wasted Space (Softube)">
       <version name="1" author="SolidSideman" time="2026-10-24T16:47:04Z">
         <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3WastedSpace.vst331849467.json" type="data" platform="darwin-arm64" hash="1220e484763e30b6537a2eb1a75b7cc38f9a9dcecedda7fefedf8f4ebeda2f2a50fd">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3WastedSpace.vst331849467.json</source>
-        <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
-      </version>
-    </reapack>
-    <reapack name="LibraryAudioPlug-InsVST3WaveShell1-VST314.12.vst-15.json" type="data" desc="VST3: RVerb Stereo (Waves)">
-      <version name="1" author="SolidSideman" time="2026-10-24T17:26:56Z">
-        <source file="APCReaperConsole/bundled/LibraryAudioPlug-InsVST3WaveShell1-VST314.12.vst-15.json" type="data" platform="darwin-arm64" hash="12207de109d554c822441331dbcd34f61ef1160526ba654ea6584b0fc0d5836639f5">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/bundled/LibraryAudioPlug-InsVST3WaveShell1-VST314.12.vst-15.json</source>
         <changelog><![CDATA[Factory mapping for APC Console.]]></changelog>
       </version>
     </reapack>
