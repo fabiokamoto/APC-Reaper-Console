@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0-beta.7
+
+- Show every Pages fader in the Console panel, labeled by fader and page.
+
 ## 0.3.0-beta.6
 
 - Restore Pages and Parametric EQ for the factory plug-ins that were prepared that way.
