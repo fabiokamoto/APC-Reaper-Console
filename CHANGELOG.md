@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0-beta.9
+
+- Remove the Verbose checkbox from Diagnostics in the APC Console Panel.
+
 ## 0.3.0-beta.8
 
 - Match factory Pages mappings to the live plug-in even when REAPER adds a VST3 UID.
