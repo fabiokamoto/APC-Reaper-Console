@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0-beta.19
+
+- Stop Library from reappearing when switching to Diagnostics on Windows.
+
 ## 0.3.0-beta.18
 
 - Hide the Library page cleanly when switching to Diagnostics on Windows.
