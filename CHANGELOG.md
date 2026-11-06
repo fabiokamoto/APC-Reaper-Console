@@ -1,5 +1,33 @@
 # Changelog
 
+## 0.3.0-beta.16
+
+- Fit Windows Console and Faders to screen size with page scroll and less flicker.
+
+## 0.3.0-beta.15
+
+- Move GitHub Actions checkout and upload-artifact onto Node.js 24 runtimes.
+
+## 0.3.0-beta.14
+
+- Use a writable temp path for FX mode file tests on Windows.
+
+## 0.3.0-beta.13
+
+- Use the portable directory helper in the factory profile test on Windows.
+
+## 0.3.0-beta.12
+
+- Allow ListView text setters to compile under MSVC strict string const rules.
+
+## 0.3.0-beta.11
+
+- Fix Windows MSVC build for common controls, file mtime, and near macro clash.
+
+## 0.3.0-beta.10
+
+- Add portable filesystem helpers, Windows build scaffolding, and GitHub Actions CI.
+
 ## 0.3.0-beta.9
 
 - Remove the Verbose checkbox from Diagnostics in the APC Console Panel.
