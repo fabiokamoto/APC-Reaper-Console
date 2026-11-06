@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0-beta.23
+
+- Use ReaPack's win64 platform id so Windows can see APC Console.
+
 ## 0.3.0-beta.22
 
 - Align the published Windows x64 binary with 0.3.0-beta.22.
