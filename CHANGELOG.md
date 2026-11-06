@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0-beta.32
+
+- Give macOS Console panel tabs enough height so Library and Diagnostics labels are not clipped.
+
 ## 0.3.0-beta.31
 
 - Document Windows ReaPack install and pre-releases in the manual and README.
