@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0-beta.31
+
+- Document Windows ReaPack install and pre-releases in the manual and README.
+
 ## 0.3.0-beta.30
 
 - Ship the Windows fader layout that clears Save Assigns.
