@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0-beta.20
+
+- Show an ASCII x in the Active column instead of Unicode ballot marks.
+
 ## 0.3.0-beta.19
 
 - Stop Library from reappearing when switching to Diagnostics on Windows.

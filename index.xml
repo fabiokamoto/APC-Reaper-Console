@@ -2,15 +2,15 @@
 <index version="1" name="APC Reaper Console">
   <category name="Control Surfaces">
     <reapack name="APC Console.ext" type="extension" desc="APC Console">
-      <version name="0.3.0-beta.19" author="SolidSideman" time="2026-11-06T09:44:48Z">
-        <source file="reaper_apc_reaper_console-arm64.dylib" platform="darwin-arm64" hash="12200e926c2aae0254453a0ecc9b37d3029a23699c6e9cbf3f7e1857feb9275c84ab">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/Control%20Surfaces/reaper_apc_reaper_console-arm64.dylib</source>
-        <source file="APCReaperConsole/README.md" type="data" platform="darwin-arm64" hash="1220705b44242037905005c48b89dd14a48fd1bb6735e0d4f935388715f9de0dde22">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/README.md</source>
-        <source file="APCReaperConsole/CHANGELOG.md" type="data" platform="darwin-arm64" hash="1220c3f249f8111bb2e33436dc0372269e411f529f66f565690774079dddd389d63c">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/CHANGELOG.md</source>
-        <source file="APCReaperConsole/QUICK_START.md" type="data" platform="darwin-arm64" hash="12203679feea327362402757e460a0dc9b424db5408f8c739f1813d47fef88061e12">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/docs/QUICK_START.md</source>
+      <version name="0.3.0-beta.20" author="SolidSideman" time="2026-11-06T10:06:33Z">
+        <source file="reaper_apc_reaper_console-arm64.dylib" platform="darwin-arm64" hash="122061f0cd9e4de5e5a61f4e26b22fe2f57967ada3e0007eab315be331b75ac98e27">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/Control%20Surfaces/reaper_apc_reaper_console-arm64.dylib</source>
+        <source file="APCReaperConsole/README.md" type="data" platform="darwin-arm64" hash="12209a5b969675a22dac41be022976c0e6ef49111bf79a43bc5a1e7332010c3ae46a">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/README.md</source>
+        <source file="APCReaperConsole/CHANGELOG.md" type="data" platform="darwin-arm64" hash="1220e2b7d0be6726aab5ff5bde1939b4ac2bd15dd4bff733b7682f8ce4b3d6b6f4a6">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/CHANGELOG.md</source>
+        <source file="APCReaperConsole/QUICK_START.md" type="data" platform="darwin-arm64" hash="1220199026742e5d31847b3d78d2c5cd575c7bd22b001ba0d3909c8476240a6a4153">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/docs/QUICK_START.md</source>
         <source file="APCReaperConsole/MIDI_LED.md" type="data" platform="darwin-arm64" hash="12201b0106cbd57af655f2123190d5f22002a236ee2f69ac0269f2aac352fedc4a36">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/docs/MIDI_LED.md</source>
-        <source file="APCReaperConsole/APC_CONSOLE_MANUAL.pdf" type="data" platform="darwin-arm64" hash="1220601f74ae0d4b33a169a3b2d68d5e98a9ec144ab462d9260d4e2041132fd03db0">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/docs/APC_CONSOLE_MANUAL.pdf</source>
+        <source file="APCReaperConsole/APC_CONSOLE_MANUAL.pdf" type="data" platform="darwin-arm64" hash="12201f2d5c134664e8a9ac1abfdcb99ce1d6533c8b667ab8251d8787b5bb9710dcd1">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/docs/APC_CONSOLE_MANUAL.pdf</source>
         <source file="APCReaperConsole/fx-modes.txt" type="data" platform="darwin-arm64" hash="1220214f1d17b17fd61b758d1f986e7818782ca199b0b0e6bbbd8fc04a1550b24456">https://github.com/fabiokamoto/APC-Reaper-Console/raw/main/resources/fx-modes.txt</source>
-        <changelog><![CDATA[Stop Library from reappearing when switching to Diagnostics on Windows.]]></changelog>
+        <changelog><![CDATA[Show an ASCII x in the Active column instead of Unicode ballot marks.]]></changelog>
       </version>
       <metadata>
         <link rel="website">https://github.com/fabiokamoto/APC-Reaper-Console</link>
