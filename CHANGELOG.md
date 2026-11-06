@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.3.0-beta.22
+
+- Align the published Windows x64 binary with 0.3.0-beta.22.
+
+## 0.3.0-beta.21
+
+- Ship Windows x64 in ReaPack with the same documents and factory mappings as macOS.
+
 ## 0.3.0-beta.20
 
 - Show an ASCII x in the Active column instead of Unicode ballot marks.
