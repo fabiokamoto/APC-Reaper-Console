@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.3.0-beta.28
+
+- Ship the Windows build that matches factory mappings by plug-in product.
+
+## 0.3.0-beta.27
+
+- Match factory mappings on Windows by plug-in product when the path differs.
+
 ## 0.3.0-beta.26
 
 - Ship the Windows build that matches factory mappings across path roots.
