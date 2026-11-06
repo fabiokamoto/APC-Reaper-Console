@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0-beta.24
+
+- Correct the factory mapping author from SolidSidemane to SolidSideman.
+
 ## 0.3.0-beta.23
 
 - Use ReaPack's win64 platform id so Windows can see APC Console.
