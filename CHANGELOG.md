@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.3.0-beta.26
+
+- Ship the Windows build that matches factory mappings across path roots.
+
+## 0.3.0-beta.25
+
+- Match factory mappings across macOS and Windows plug-in path roots.
+
 ## 0.3.0-beta.24
 
 - Correct the factory mapping author from SolidSidemane to SolidSideman.
