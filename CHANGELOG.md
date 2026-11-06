@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0-beta.17
+
+- Keep the Windows Console library page parented to the panel so clicks respond.
+
 ## 0.3.0-beta.16
 
 - Fit Windows Console and Faders to screen size with page scroll and less flicker.
