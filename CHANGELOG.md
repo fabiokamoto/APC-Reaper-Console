@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.3.0-beta.30
+
+- Ship the Windows fader layout that clears Save Assigns.
+
+## 0.3.0-beta.29
+
+- Lower the Windows fader buttons so Save Assigns clears the strips.
+
 ## 0.3.0-beta.28
 
 - Ship the Windows build that matches factory mappings by plug-in product.
